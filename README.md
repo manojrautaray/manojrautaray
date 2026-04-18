@@ -33,6 +33,13 @@ I believe the future of games lies at the intersection of **AI, creativity, and 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/manoj-rautaray-bb954522/
 
+---
+
+## 🎮 My Game
+
+🐍 Snake Master  
+👉 https://manojrautaray.github.io/SNAKE-MASTER/
+
 <!--
 **manojrautaray/manojrautaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
