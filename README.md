@@ -1,44 +1,36 @@
-# Hi, I'm Manoj 👋
+# 👋 Hey, I'm Manoj
 
-🎮 Lead Game Producer at Moonfrog Labs  
-🚀 Building and scaling social gaming experiences  
-
----
-
-## 🤖 What I'm exploring
-I’m currently diving into how AI can be used to build smarter, more engaging game experiences.
+🎮 Lead Producer building games, systems, and player experiences  
+🚀 Exploring AI-powered game development  
 
 ---
 
-## 🎯 Current Focus
-- Learning AI-driven game development  
-- Building small playable prototypes  
-- Experimenting with gameplay systems  
+## 🎮 Featured Project
+
+### 🐍 SNAKE MASTER  
+A modern take on the classic Snake game with dynamic speed, multipliers, and distance-based progression.
+
+👉 Play here: https://manojrautaray.github.io/SNAKE-MASTER/
 
 ---
 
-## 🧪 Projects
-(Coming soon)
-- First AI Game  
-- Game prototypes using AI  
-- Gameplay experiments  
+## ⚡ What I’m Doing
+- Building small playable games using AI  
+- Experimenting with game mechanics & progression systems  
+- Exploring fast prototyping workflows  
 
 ---
 
-## 💡 Why this space excites me
-I believe the future of games lies at the intersection of **AI, creativity, and player-driven experiences**.
+## 🛠️ Skills & Tools
+- Game Design & Production  
+- Live Ops & Monetization  
+- HTML, CSS, JavaScript  
+- AI-assisted development  
 
 ---
 
-## 📫 Connect with me
+## 🌍 Connect
 - LinkedIn: https://www.linkedin.com/in/manoj-rautaray-bb954522/
-
----
-
-## 🎮 My Game
-
-🐍 Snake Master  
-👉 https://manojrautaray.github.io/SNAKE-MASTER/
 
 <!--
 **manojrautaray/manojrautaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
