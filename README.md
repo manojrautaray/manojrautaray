@@ -10,7 +10,7 @@
 ### 🐍 SNAKE MASTER  
 A modern take on the classic Snake game with dynamic speed, multipliers, and distance-based progression.
 
-👉 Play here: https://manojrautaray.github.io/SNAKE-MASTER/
+👉 Play here: https://manojrautaray.github.io/Snake-Master/
 
 ---
 
