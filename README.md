@@ -1,4 +1,37 @@
-## Hi there 👋
+# Hi, I'm Manoj 👋
+
+🎮 Lead Game Producer at Moonfrog Labs  
+🚀 Building and scaling social gaming experiences  
+
+---
+
+## 🤖 What I'm exploring
+I’m currently diving into how AI can be used to build smarter, more engaging game experiences.
+
+---
+
+## 🎯 Current Focus
+- Learning AI-driven game development  
+- Building small playable prototypes  
+- Experimenting with gameplay systems  
+
+---
+
+## 🧪 Projects
+(Coming soon)
+- First AI Game  
+- Game prototypes using AI  
+- Gameplay experiments  
+
+---
+
+## 💡 Why this space excites me
+I believe the future of games lies at the intersection of **AI, creativity, and player-driven experiences**.
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/manoj-rautaray-bb954522/
 
 <!--
 **manojrautaray/manojrautaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
